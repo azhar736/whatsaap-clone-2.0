@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.4",
+    "email-validator": "^2.0.4",
+    "firebase": "^9.9.4",
+    "moment": "^2.29.4",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-time-ago": "^7.2.1",
+    "react-timeago": "^7.1.0",
+    "spinners-react": "^1.0.7",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "eslint": "8.23.0",
